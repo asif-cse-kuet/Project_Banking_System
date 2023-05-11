@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1683719333 source:c:\users\asif hasan tonmoy\onedrive\desktop\banking system\main.cpp
+	"user.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<assert.h>
+	<io.h>
+	<algorithm>
+
+1683719250 c:\users\asif hasan tonmoy\onedrive\desktop\banking system\user.h
+
+1678648717 source:c:\users\asif hasan tonmoy\onedrive\desktop\banking system\user.cpp
+	<iostream>
+	"user.h"
+	<bits/stdc++.h>
+	<string>
+	<assert.h>
+	<io.h>
+	<algorithm>
+
+1683717764 source:c:\users\asif hasan tonmoy\onedrive\desktop\banking system\admin.cpp
+	"admin.h"
+
+1678568578 c:\users\asif hasan tonmoy\onedrive\desktop\banking system\admin.h
+
